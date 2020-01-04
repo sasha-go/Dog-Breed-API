@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  h1, h2 {
+      color: white;
+  }
+
+  h2 {
+      font-size: 18px;
+  }
+
+  body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(58, 59, 59);
+    margin: 100px 100px;
+  }
+  
+  #container {
+    max-width: 400px;
+  }
+  
+  #dogform {
+      border: solid black 1px;
+      padding: 25px;
+      /* margin-right: 250px; */
+      background: beige;
+  
+  }
+  
+  #dogBreedInput {
+      border: solid gray 1px;
+      display: block;
+      margin-bottom: 10px;
+      margin-top: 10px;
+  }
+  
+  #submitButton {
+      border: solid black 1px;
+      color: white;
+      background: orange;
+  }
+  
+  .hidden {
+      display: none;
+  }
+  
+ 
